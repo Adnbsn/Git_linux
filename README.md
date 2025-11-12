@@ -1,16 +1,8 @@
-# Git_linux
-Adrien and Emma
-TD3 git
-<<<<<<< HEAD
-bonjour
-test
-adri
-yo
-Emma
-ok
-1
-2
-3
-4
+# Git interactive rebase
 
->>>>>>> emma
+paragraphe 1
+paragraphe 2
+#Changing multiple commit messages
+P1
+Emma
+ 
